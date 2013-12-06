@@ -1,0 +1,5 @@
+c:\users\ebs109\documents\visual studio 2010\Projects\KnockoutBootStrap\KnockoutBootStrap.Core\bin\Debug\KnockoutBootStrap.Core.dll.config
+c:\users\ebs109\documents\visual studio 2010\Projects\KnockoutBootStrap\KnockoutBootStrap.Core\bin\Debug\KnockoutBootStrap.Core.dll
+c:\users\ebs109\documents\visual studio 2010\Projects\KnockoutBootStrap\KnockoutBootStrap.Core\bin\Debug\KnockoutBootStrap.Core.pdb
+c:\users\ebs109\documents\visual studio 2010\Projects\KnockoutBootStrap\KnockoutBootStrap.Core\obj\Debug\KnockoutBootStrap.Core.dll
+c:\users\ebs109\documents\visual studio 2010\Projects\KnockoutBootStrap\KnockoutBootStrap.Core\obj\Debug\KnockoutBootStrap.Core.pdb
